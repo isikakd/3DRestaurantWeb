@@ -1,32 +1,28 @@
-# Responsive Restaurant Website
+# 3D Restaurant Website
 
-This project is a responsive restaurant website developed to demonstrate modern front-end development practices.
-The main focus of the project is creating a clean, user-friendly interface with structured layouts and visual components.
+A frontend restaurant website showcasing interactive 3D model integration to enhance
+user experience and visual presentation.
 
-# Features
-- Responsive layout compatible with different screen sizes
-- Structured menu and content sections
-- Image-based food presentation
-- Clean and readable UI design
+## Overview
+This project focuses on building a clean and modern restaurant website using
+HTML and CSS, enriched with embedded 3D models to provide a more engaging interface.
 
-## Technologies Used
+## Technologies
 - HTML5
 - CSS3
-- Responsive Web Design (Flexbox / Grid)
-- Basic asset management for images and 3D models
+- 3D Model Integration (.glb)
+- Frontend Web Design
 
-## Project Purpose
-This project was developed to improve front-end development skills and gain hands-on experience in building
-structured and visually consistent web interfaces. It demonstrates the ability to translate design ideas
-into functional web pages.
+## Features
+- Interactive 3D model display
+- Image-based food presentation
+- Clean and responsive layout
+- Modern UI structure
 
-## How to Run
-Simply open the `index.html` file in any modern web browser.
-
-## Screenshots
-You can view the website by opening the project locally or by hosting it on GitHub Pages.
+## Live Demo
+https://isikakd.github.io/3d-restaurant-web/
 
 ## Author
 Işık Esma Akdoğan  
 Software Engineering Student
-# 3DRestaurantWeb
+
