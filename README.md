@@ -20,7 +20,7 @@ HTML and CSS, enriched with embedded 3D models to provide a more engaging interf
 - Modern UI structure
 
 ## Live Demo
-https://isikakd.github.io/3d-restaurant-web/
+ https://isikakd.github.io/3DRestaurantWeb/
 
 ## Author
 Işık Esma Akdoğan  
